@@ -1,0 +1,1 @@
+print("Name\tAge\tCountry\nMessi\t250\tArgentina")
